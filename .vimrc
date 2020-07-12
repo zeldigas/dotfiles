@@ -31,6 +31,7 @@ set showmatch
 "on tab 4 spaces
 set shiftwidth=4
 set tabstop=4
+set expandtab
 
 " Treat long lines as break lines (useful when moving around in them)
 map j gj
